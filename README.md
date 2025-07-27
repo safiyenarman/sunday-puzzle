@@ -17,9 +17,9 @@ It searches for words hidden in a **spiral or counter-spiral** pattern inside a 
 
 ## 🗂️ Project Structure
 
-├── main.cpp # Main C++ file with the spiral search logic
-├── input.txt # Sample matrix inputs
-├── README.md # This file
+- main.cpp # Main C++ file with the spiral search logic
+- input.txt # Sample matrix inputs
+- README.md # This file
 
 ## 🛠️ Technologies
 
